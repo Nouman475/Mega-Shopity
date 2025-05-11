@@ -83,7 +83,7 @@ Please adhere to this project's `code of conduct`.
 
 Run Locally
 ```bash
-git clone git clone https://github.com/Nouman475/shopity.git
+git clone git clone https://github.com/Nouman475/Mega-Shopity
 ```
 Install dependencies
 
